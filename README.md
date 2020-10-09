@@ -43,6 +43,7 @@ Then nagivate to browser location where project will be served from. Using Larad
 * [Laravel](https://laravel.com/) - The php framework used
 * [Composer](https://getcomposer.org/) - PHP Dependency manager
 * [Laradock](https://laradock.io/) - Docker Development environment for PHP
+* [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - Bootstrap styles
 
 ## Authors
 
