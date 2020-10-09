@@ -41,7 +41,7 @@ Then nagivate to browser location where project will be served from. Using Larad
 ## Built With
 
 * [Laravel](https://laravel.com/) - The php framework used
-* [MySQL](https://getcomposer.org/) - PHP Dependency manager
+* [Composer](https://getcomposer.org/) - PHP Dependency manager
 * [Laradock](https://laradock.io/) - Docker Development environment for PHP
 
 ## Authors
